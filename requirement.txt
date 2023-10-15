@@ -1,0 +1,19 @@
+# requirements.txt for time series analysis and forecasting with statsmodels
+
+# Basic Data Manipulation and Analysis
+numpy==1.21.3
+pandas==1.3.3
+
+# Visualization
+matplotlib==3.4.3
+seaborn==0.11.2
+
+# Time Series Analysis
+statsmodels==0.13.0
+scipy==1.7.3
+
+# Machine Learning
+scikit-learn==0.24.2
+
+# Jupyter Notebooks (if you are using Jupyter)
+jupyter==1.0.0
